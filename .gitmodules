@@ -76,3 +76,6 @@
 [submodule "multimarkdown_reader"]
 	path = multimarkdown_reader
 	url = https://github.com/dames57/multimarkdown_reader.git
+[submodule "pelican-update-date"]
+	path = pelican-update-date
+	url = https://github.com/mawenbao/pelican-update-date.git
